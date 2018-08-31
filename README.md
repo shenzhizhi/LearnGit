@@ -23,3 +23,12 @@ System.out.println("我是测试代码")
 第四：Assets/Image/xiaoguotu.png   仓库名下的存放图片的文件目录+图片名
 ```
 
+```flow
+st=>start: 开始
+op=>operation: My Operation
+cond=>condition: Yes or No?
+e=>end
+st->op->cond
+cond(yes)->e
+cond(no)->op
+&```
