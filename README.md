@@ -4,7 +4,8 @@
 ---
 ![测试文字](https://github.com/shenzhizhi/LearnGit/raw/master/image/123.png  "测试图片")
 
-#github上传图片方式：![Image text](https://github.com/yguo18/CircleFollowButton/raw/master/Assets/Image/xiaoguotu.png)
+#github上传图片方式：
+#![Image text](https://github.com/yguo18/CircleFollowButton/raw/master/Assets/Image/xiaoguotu.png)
 
 #![Image text]：当图片不存在时显示文字
 
