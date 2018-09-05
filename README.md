@@ -21,7 +21,7 @@ System.out.println("我是测试代码")
 ## github上传图片方式：
 `![Image text](https://github.com/yguo18/CircleFollowButton/raw/master/Assets/Image/xiaoguotu.png)`
 
-#![Image text]：当图片不存在时显示文字
+# ![Image text]：当图片不存在时显示文字
 
 此链接由三部分组成
 
